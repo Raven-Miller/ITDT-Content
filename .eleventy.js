@@ -7,7 +7,7 @@ export default function (eleventyConfig) {
 
   return {
     templateFormats: ["html", "njk", "md", "liquid"],
-    // pathPrefix: "/InThisDullTown/",
+    pathPrefix: "/ITDT-Content/",
     dir: {
       input: ".",
       output: "_site",
