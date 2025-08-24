@@ -5,6 +5,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addWatchTarget("styles");
   eleventyConfig.addPassthroughCopy("styles");
 
+  eleventyConfig.addPassthroughCopy("Images");
+
   return {
     templateFormats: ["html", "njk", "md", "liquid"],
     pathPrefix: "/ITDT-Content/",
