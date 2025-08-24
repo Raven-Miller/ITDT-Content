@@ -1,13 +1,11 @@
-export const markdownTemplateEngine = "njk";
-
-export default function (eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.setServerPassthroughCopyBehavior("copy");
   eleventyConfig.addWatchTarget("styles");
   eleventyConfig.addPassthroughCopy("styles");
-
   eleventyConfig.addPassthroughCopy("Images");
 
   return {
+    markdownTemplateEngine: "njk",
     templateFormats: ["html", "njk", "md", "liquid"],
     pathPrefix: "/ITDT-Content/",
     dir: {
@@ -15,4 +13,4 @@ export default function (eleventyConfig) {
       output: "_site",
     },
   };
-}
+};
