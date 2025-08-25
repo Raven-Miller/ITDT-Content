@@ -2,7 +2,7 @@
 title: "Character Pain"
 layout: base.njk
 tags: ["Report"]
-permalink: "stories/Reports/{{ title | slug }}/"
+permalink: "/Pages/Scenarios/{{ title | slug }}/"
 ---
 
 # How Do They Deal With Pain?
