@@ -66,3 +66,31 @@ main.markdown {
     display: block;
   }
 }
+
+footer {
+  background-color: #2c2c2c;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 0%;
+}
+footer a {
+  color: #30b630;
+  text-decoration: underline;
+}
+
+header {
+  background-color: #2c2c2c;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 0%;
+}
+header div {
+  display: flex;
+  gap: 30px;
+}
