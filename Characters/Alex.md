@@ -39,7 +39,7 @@ Gay
 |                                     |                                                                                                                                                 | **Flaws:** untrusting, holds grudges                                                    |
 |                                     |                                                                                                                                                 | **Virtues:** calm, careful, funny, smart, creative                                      |
 
-### Notes:
+## Notes:
 
 - mild religious trauma, tries to pretend it doesn’t exist
 - hides in humor

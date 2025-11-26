@@ -28,7 +28,7 @@ Pan
 
 ---
 
-### Appearance
+## Appearance
 
 **Age:** 15 and a half\
 **Height:** 5’7\
@@ -41,14 +41,14 @@ Pan
 
 ---
 
-### Style
+## Style
 
 **Clothing:** oversized sweater, cargo shorts, overalls, collared shirt, converse, big flowy sweaters\
 **Nails:** random colors, usually chipped
 
 ---
 
-### Personality
+## Personality
 
 **Sense of humor:** light\
 **Hobbies:** knitting, reading, scrapbooking\

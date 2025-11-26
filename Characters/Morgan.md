@@ -26,7 +26,7 @@ order: 2
 
 ---
 
-### Appearance
+## Appearance
 
 **Height:** 5’6\
 **Hair:** soft brown, curly, messy double braids\
@@ -34,7 +34,7 @@ order: 2
 **Eyes:** soft warm brown, round wide, calculating\
 **Voice:** soft, light, smooth
 
-### Style
+## Style
 
 **Aesthetic:** cryptid-core, autumn\
 **Clothing:** grandpa sweater, cargo pants, doc martins, band ring, old baseball cap\
@@ -43,7 +43,7 @@ order: 2
 **Nails:** short, muted pastel yellow\
 **Makeup:** light blush, light eyeliner
 
-### Personality
+## Personality
 
 **Sense of humor:** witty\
 **Hobbies:** photography, puzzles, painting\

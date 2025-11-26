@@ -31,7 +31,7 @@ The driver - only one old enough to drive
 
 ---
 
-### Appearance
+## Appearance
 
 **Age:** 19\
 **Height:** 6’2\
@@ -43,12 +43,12 @@ The driver - only one old enough to drive
 **Nose:** sharp, straight down\
 **Voice:** hardened, expressive, genuine
 
-### Style
+## Style
 
 **Clothing:** sweatshirt, t-shirt old pants, cargo shirts, muddy sneakers\
 **Glasses:** clear frames
 
-### Personality
+## Personality
 
 **Sense of humor:** genuine\
 **Hobbies:** probably sports or something (it’s actually cooking)\
